@@ -86,3 +86,8 @@ This project strengthened my ability to:
 
 This project was developed as part of my QA Engineering training at TripleTen.
 
+## Full Project Documentation
+
+The complete project documentation, including API test cases, execution results and defect references, is available here:
+
+[View full REST API testing project documentation](https://docs.google.com/spreadsheets/d/1ag-10dHaIzu5V_syVKTBdl91qZ_W_FOy3aeGnGyAvUc/edit?usp=sharing)
